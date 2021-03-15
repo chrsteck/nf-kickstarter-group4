@@ -11,11 +11,11 @@ the success of a compain by given features:
 'cat_sub'            - sub categories from Kickstarter
 'name_wc'            - word count of campain name
 'slug_wc'            - # of tags
-'launch_to_deadline' - taotal time for campaign
+'launch_to_deadline' - total time for campaign
 'usd_goal'           - target amount of money in USD
 
 With the created model we create we can predict the chances of success for 
-campaign under con sideration of given features above.
+campaign under consideration of given features above.
 """
 
 __author__ = "Gruppe 4"
