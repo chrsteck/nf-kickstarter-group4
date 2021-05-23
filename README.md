@@ -10,4 +10,4 @@ This repo contains an Analysis of the Kickstarter dataset as well as two models 
 * **savingthemodel_game.py** - a script training the gaming model and saving the model as pickle and its summary as a text file
 * **MakeFile*** A make-file to install the requirements for the virtual environment
 * **requirements.txt** - python virtual environment requirements
-* **model** - a folder with the models and their summaries
+* **model** - a folder with all models and their summaries
